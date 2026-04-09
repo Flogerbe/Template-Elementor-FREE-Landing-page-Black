@@ -1,0 +1,8 @@
+# WordPress gitignore
+*.log
+.DS_Store
+Thumbs.db
+*.zip
+*.tar.gz
+*.gz
+.env
